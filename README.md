@@ -1,4 +1,4 @@
-# AmazonProductReviewMLProject
+# Predicting Amazon Reviews ML Project
 
 Using Machine Learning to predict ratings of video games sold on Amazon.com
 
